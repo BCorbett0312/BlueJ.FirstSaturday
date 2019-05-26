@@ -42,7 +42,7 @@ public class WriteIFsTest
     public void tearDown()
     {
     }
-
+    
     @Test
     public void TestIfs()
     {
